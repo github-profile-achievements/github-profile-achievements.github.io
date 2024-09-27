@@ -1,2 +1,2 @@
-# github-profile-achievements.github.io
-Redirect to `gomzyakov/github-achievements`
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
